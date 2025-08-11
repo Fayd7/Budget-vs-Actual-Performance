@@ -1,0 +1,46 @@
+Budget vs Actual Performance Analysis in Excel
+
+Overview:
+This Excel-based Budget vs Actual Performance Analysis is designed to track financial performance, compare planned budgets to actual results, and highlight variances. The dashboard provides a clear and interactive view of key financial indicators, enabling faster and more informed decision-making.
+
+Key Features:
+
+Interactive Dashboard for real-time comparison of budget vs actual data
+
+Key Performance Indicators (KPIs) to monitor revenue, expenses, and profit margins
+
+Variance Analysis with automatic highlighting of over-budget or under-budget items
+
+Pivot Tables for aggregated financial summaries
+
+Pivot Charts to visualize trends and variances over time
+
+Advanced Formulas such as SUMIFS, INDEX-MATCH, IFERROR, and variance calculations
+
+Conditional Formatting to color-code positive and negative variances
+
+Dynamic Charts that update automatically when data changes
+
+Data Validation to ensure accuracy in budget and actual entries
+
+Printable PDF Reports for professional reporting
+
+Files in This Project:
+
+BudgetvsActual.xlsx — Main Excel workbook with data, dashboard, and analysis
+
+BudgetvsActualReport.pdf — Exported dashboard and report for quick review
+
+screenshots folder — Images of the dashboard, KPIs, and charts
+
+How to Use:
+
+Open the Excel file.
+
+Enter or import budget and actual data into the “Data” sheet.
+
+View the dashboard for a summary of performance and variances.
+
+Use slicers and filters to focus on specific categories, months, or departments.
+
+Export the dashboard to PDF for sharing with stakeholders.
